@@ -1,10 +1,3 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando a página inicial do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+Nesse projeto proposto pelo Santander Bootcamp Fullstack Developer da DIO o desafio foi reconstruir a página de login do Instagram. Utilizando as tecnologias HTML5 e CSS3 com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
